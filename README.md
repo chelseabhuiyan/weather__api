@@ -1,6 +1,6 @@
 # Weather App
 
-This web application allows users to check if it will rain and if there will be a sunset in a specified city on a given date.
+The primary goal is to retrieve data from the weather API and display it in an intuitive user interface. Through the usage of Express/Node.js and Axios, users are able to enter their preferred city and date and receive relevant weather-related information. This web application is a useful resource for anyone who want to quickly check weather forecasts, which helps them make informed decisions about outdoor activities or travel schedules. 
 
 ## Prerequisites
 
