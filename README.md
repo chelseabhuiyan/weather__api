@@ -1,6 +1,6 @@
 # Weather App
 
-This is a simple web application that allows users to check if it will rain or if there will be a sunset in a specified city on a given date.
+This web application allows users to check if it will rain and if there will be a sunset in a specified city on a given date.
 
 ## Prerequisites
 
