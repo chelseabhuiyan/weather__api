@@ -1,0 +1,59 @@
+/* Styling for the entire body */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://www.travelandleisure.com/thmb/Ma2MKS1DKmDHoeo_lpSMyr4xmwE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TAL-haleakala-hawaii-clouds-sunset-lead-SUNSTWRLD1023-1f46b17f3a214b5fb7747a3d317c0e0a.jpg');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Styling for container */
+.container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+/* Styling for the heading */
+h1 {
+    color: darkmagenta;
+}
+/* Styling for the form */
+form {
+    margin-top: 20px;
+}
+/* Styling for the text input feilds */
+input[type="text"] {
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+/* Styling for the check button */
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Styling for the response */
+p {
+    margin-top: 20px;
+    font-size: 18px;
+    color: purple;
+}
+/* Styling for the error */
+.error {
+    color: #ff0000;
+    font-weight: bold;
+}
